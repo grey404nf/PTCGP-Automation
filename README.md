@@ -7,11 +7,11 @@ Pokemon TCG Pocket 自動每日抽卡 & 領取任務
 ---
 ## Prerequisites 前置步驟
 1. Install BlueStacks (Ensure Android Debug Bridge (ADB) is enabled in settings)
-2. Install Pokémon TCG Pocket within BlueStacks
+2. Install Pokémon TCG Pocket within BlueStacks and log in
 3. Install Python on your local machine
 ---
 1. 安裝 BlueStacks (設定啟用 Android Debug Bridge (ADB) )
-2. 在 BlueStacks 中安裝 Pokemon TCG Pocket
+2. 在 BlueStacks 中安裝 Pokemon TCG Pocket 並登入
 3. 本機安裝 Python
 
 ---
