@@ -1,4 +1,5 @@
 # Pokemon TCG Pocket Automation
+---
 Automatic daily pack opening + mission collection for Pokemon TCG Pocket
 (Pokemon TCG Pocket 自動每日抽卡+領取任務)
 
