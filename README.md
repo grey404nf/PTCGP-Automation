@@ -1,8 +1,8 @@
 # Pokemon TCG Pocket Automation
 
-Automatic daily pack opening + mission collection for Pokemon TCG Pocket
+Automatic Daily Pack Opening & Mission Collection for Pokemon TCG Pocket
 
-Pokemon TCG Pocket 自動每日抽卡+領取任務
+Pokemon TCG Pocket 自動每日抽卡 & 領取任務
 
 ---
 ## Prerequisites 前置步驟
@@ -12,7 +12,7 @@ Pokemon TCG Pocket 自動每日抽卡+領取任務
 ---
 1. 安裝 BlueStacks (設定啟用 Android Debug Bridge (ADB) )
 2. 在 BlueStacks 中安裝 Pokemon TCG Pocket
-3. 本機安裝 python
+3. 本機安裝 Python
 
 ---
 ## Run 執行
