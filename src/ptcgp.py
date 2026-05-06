@@ -174,7 +174,7 @@ def draw_pack_logic():
 def main():
     global TARGET_DEVICE
     print("="*50)
-    print("    POKEMON TCG POCKET AUTOMATION - ver. 1.0.0")
+    print("    POKEMON TCG POCKET AUTOMATION - ver. 0.0.0")
     print("    Executing 'ptcgp.py' ...")
     print("="*50)
 
