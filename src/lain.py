@@ -24,7 +24,7 @@ def run_task():
 
 def main():
     print("="*50)
-    print("    LAIN AUTOMATION - ver. 1.0.0")
+    print("    LAIN AUTOMATION - ver. 0.0.0")
     print("="*50)
     print()
     print("="*50)
